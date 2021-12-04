@@ -13,8 +13,8 @@
 
 - EEG pipeline (Jonathan Wirsich) - Github issues [#6](https://github.com/connectomicslab/connectomemapper3/issues/103) / Pull Request [#82](https://github.com/connectomicslab/connectomemapper3/pull/82)
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>Please download the PDF to view our final presentation: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="https://github.com/brainhack-ch/cmp3-eeg-and-more/raw/main/cmp3-final-brainhack-global-geneva-2021.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/brainhack-ch/cmp3-eeg-and-more/raw/main/cmp3-final-brainhack-global-geneva-2021.pdf">
+        <p>Please download the PDF to view our final presentation: <a href="https://github.com/brainhack-ch/cmp3-eeg-and-more/raw/main/cmp3-final-brainhack-global-geneva-2021.pdf">Download PDF</a>.</p>
     </embed>
 </object>
