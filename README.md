@@ -1,6 +1,7 @@
 # Project 4: Contributing to Connectome Mapper 3
 
 **Principal Investigator:** Sébastien Tourbier (@sebastientourbier)
+
 **Team members:** Mikkel Schöttner, Jonathan Wirsich, Jakub Jancovic, Anil Tuncel, Stefan Dvoretskii
 
 ## Targeted tasks
